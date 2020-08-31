@@ -1,0 +1,311 @@
+{   
+    "list": ["jean", "amber", "lisa", "kaeya", "barbara", "diluc", "razor", "venti", "klee", "bennett", "noelle", "fischl", "sucrose", "mona", "xiao", "beidou", "ningguang", "xiangling", "xingqiu", "chongyun", "qiqi", "keqing"],
+
+    "jean": {
+        "name": "Jean",
+        "sp": "Wind, hear me!",
+        "cv": "Saito Chiwa",
+        "info": "As the Acting Grand Master of the Knights, Jean has always been devoted to her duties and maintaining peace in Mondstadt. She had taken precautions long before the onset of Stormterror's assault, and she will guard Mondstadt with her life as always.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200616/2020061611214389168.png",
+        "city": "Mondstadt",
+        "link": "https://genshin.mihoyo.com/en/character/mondstadt?char=0",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "rating": 5,
+        "id": "749031380716879922"
+    },
+
+    "amber": {
+        "name": "Amber",
+        "sp": "Outrider Amber, at the ready!",
+        "cv": "Iwami Manaka",
+        "info": "A perky, straightforward girl, who is also the only Outrider of the Knights of Favonius.Her amazing mastery of the glider has made her a three-time winner of the Gliding Champion in Mondstadt. As a rising star within the Knights of Favonius, Amber is always ready for any challenging tasks.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100914372396510.png",
+        "city": "Mondstadt",
+        "link": "https://genshin.mihoyo.com/en/character/mondstadt?char=1",
+        "element": "Pyro",
+        "weapon": "Bow",
+        "rating": 4,
+        "id": "749031317492203611"
+    },
+
+    "lisa": {
+        "name": "Lisa",
+        "sp": "There'll be time for this later... Come sit and chat with me.",
+        "cv": "Tanaka Rie",
+        "info": "She is an intellectual witch who can never get enough naps. As the Librarian of the Knights of Favonius, Lisa is smart in that she always knows exactly what to do with whatever troubles her. As much as she loves her sleep, she still manages to keep everything under control in a calm, composed manner.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915122465321.png",
+        "city": "Mondstadt",
+        "link": "https://genshin.mihoyo.com/en/character/mondstadt?char=2",
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "rating": 4,
+        "id": "749031410358288396"
+    },
+
+    "kaeya": {
+        "name": "Kaeya",
+        "sp": "A knight's duty goes beyond the sword.",
+        "cv": "Toriumi Kohsuke",
+        "info": "In the Knights of Favonius, Kaeya is the most trusted aide for the Acting Grand Master Jean. You can always count on him to solve any intractable problems. Everyone in Mondstadt loves Kaeya, but no one knows what secrets this witty, charming knight has...",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100910335338023.png",
+        "city": "Mondstadt",
+        "link": "https://genshin.mihoyo.com/en/character/mondstadt?char=3",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "rating": 4,
+        "id": "749031390867095731"
+    },
+
+    "barbara": {
+        "name": "Barbara",
+        "sp": "The best magic is diligence.",
+        "cv": "Kito Akari",
+        "info": "The Deaconess of the Favonius Church and a shining starlet adored by all. Although the concept of a starlet is rather novel in a city of bards, the people of Mondstadt love Barbara nonetheless. I owe everything to the city's spirit of freedom. — Barbara, regarding her popularity.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200609/2020060915101631868.png",
+        "city": "Mondstadt",
+        "link": "https://genshin.mihoyo.com/en/character/mondstadt?char=4",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "rating": 4,
+        "id": "749031327726174398"
+    },
+
+    "diluc": {
+        "name": "Diluc",
+        "sp": "Eyes forward, to the new dawn.",
+        "cv": "Ono Kenshou",
+        "info": "As the wealthiest gentleman in Mondstadt, the ever-dapper Diluc always presents himself as the epitome of perfection. But behind the courteous visage burns a zealous soul that has sworn to protect Mondstadt at all costs, allowing him to mercilessly vanquish all who threaten his city.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200609/2020060915105884221.png",
+        "city": "Mondstadt",
+        "link": "https://genshin.mihoyo.com/en/character/mondstadt?char=5",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "rating": 5,
+        "id": "749031368255602861"
+    },
+
+    "razor": {
+        "name": "Razor",
+        "sp": "The wolves are my Lucipal. My family.",
+        "cv": "Uchiyama Kouki",
+        "info": "Some say he is an orphan raised by wolves. Others say he is a wolf spirit in human form. He is most at home in the wild, fighting with claw and thunder. To this day the wolf boy can be found prowling the forest, where he and his wolf pack hunt to survive using nothing more than their animal instincts.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20191028/2019102814495922891.png",
+        "city": "Mondstadt",
+        "link": "https://genshin.mihoyo.com/en/character/mondstadt?char=6",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "rating": 4,
+        "id": "749031449864306719"
+    },
+
+    "venti": {
+        "name": "Venti",
+        "sp": "Perfect timing, Traveler! Tell me -- what is your greatest wish?",
+        "cv": "Murase Ayumu",
+        "info": "A bard that seems to have arrived on some unknown wind — sometimes sing songs as old as the hills, and other times sing poems fresh and new. Likes apples and lively places, but is not a fan of cheese or anything sticky. When using his Anemo power to control the wind, it often appears as feathers, as he's fond of that which appears light and breezy.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20191122/2019112210305833310.png",
+        "city": "Mondstadt",
+        "link": "https://genshin.mihoyo.com/en/character/mondstadt?char=7",
+        "element": "Anemo",
+        "weapon": "Bow",
+        "rating": 5,
+        "id": "749031464883978310"
+    },
+
+    "klee": {
+        "name": "Klee",
+        "sp": "I wanna go out and play! Come on, take me out to play already!",
+        "cv": "Kuno Misaki",
+        "info": "An alchemist with an insatiable curiosity towards the world and everything in it. Attached to the Knights of Favonius as an assistant to Albedo, her area of focus is 'bio-alchemy.' She strives to enrich the world by transforming living things with the power of alchemy. Granted, the products of her research sometimes prove to be more weird than wonderful — but on the whole, she has made monumental contributions to the field of bio-alchemy.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200103/2020010310582722822.png",
+        "city": "Mondstadt",
+        "link": "https://genshin.mihoyo.com/en/character/mondstadt?char=8",
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "rating": 5,
+        "id": "749031404964151376"
+    },
+
+    "bennett": {
+        "name": "Bennett",
+        "sp": "Weather's not bad today... Oh crud, i jinxed it! Now it's bound to rain.",
+        "cv": "Ousaka Ryouta",
+        "info": "The few young adventurers that the Mondstadt Adventurers' Guild has always find themselves tangled up in baffling bouts of bad luck. He is the only active member of his own adventure group, known as 'Benny's Adventure Team,' after all the other members decided to 'take leave' following a series of unfortunate incidents. As a result, the team is currently on the verge of being dissolved. Being unable to break the poor boy's heart, Katheryne of the Adventurers' Guild has kept 'Benny's Adventure Team' on the books, whilst also hiding from him the fact that all the other members have long since officially left the team.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200312/2020031220001589124.png",
+        "city": "Mondstadt",
+        "link": "https://genshin.mihoyo.com/en/character/mondstadt?char=9",
+        "element": "Pyro",
+        "weapon": "Sword",
+        "rating": 4,
+        "id": "749031351533043772"
+    },
+
+    "noelle": {
+        "name": "Noelle",
+        "sp": "Leave it to me! All of it, whatever it is!",
+        "cv": "Takao Kanon",
+        "info": "Like most of Mondstadt's young people, Noelle always dreamed of being a knight of Favonius when she grew up. She may not have what it takes to be a knight just yet, but she is learning. Working as a maid at the Knights' headquarters, she is constantly taking notes on what constitutes knightly speech, knightly conduct, and knightly customs. She holds firm to her belief that one day she will join their ranks — she just needs to keep trying her hardest at everything she does.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200315/2020031517331523512.png",
+        "city": "Mondstadt",
+        "link": "https://genshin.mihoyo.com/en/character/mondstadt?char=10",
+        "element": "Geo",
+        "weapon": "Claymore",
+        "rating": 4,
+        "id": "749031431132545057"
+    },
+
+    "fischl": {
+        "name": "Fischl",
+        "sp": "You are as I am, a traveler from another world.",
+        "cv": "Uchida Maaya",
+        "info": "A mysterious girl who calls herself 'Prinzessin der Verurteilung' and travels with a night raven named Oz. Through her unique abilities, eccentric character, and (while she would never admit it herself) hard work, Fischl has become a rising star among the Adventurers' Guild's investigators, earning the recognition of all.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200402/2020040211240853891.png",
+        "city": "Mondstadt",
+        "link": "https://genshin.mihoyo.com/en/character/mondstadt?char=11",
+        "element": "Electro",
+        "weapon": "Bow",
+        "rating": 4,
+        "id": "749031374052393120"
+    },
+
+    "sucrose": {
+        "name": "Sucrose",
+        "sp": "And this one is called.. Mist Flower Project 3, Version 17, Enlargement Trial.",
+        "cv": "Fujita Akane",
+        "info": "An alchemist with an insatiable curiosity towards the world and everything in it. Attached to the Knights of Favonius as an assistant to Albedo, her area of focus is 'bio-alchemy.' She strives to enrich the world by transforming living things with the power of alchemy. Granted, the products of her research sometimes prove to be more weird than wonderful — but on the whole, she has made monumental contributions to the field of bio-alchemy.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200723/2020072319115159476.png",
+        "city": "Mondstadt",
+        "link": "https://genshin.mihoyo.com/en/character/mondstadt?char=12",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "rating": 4,
+        "id": "749031457019658401"
+    },
+
+    "mona": {
+        "name": "Mona",
+        "sp": "Fate is called as such, for it cannot be changed, nor can it be reversed. It can only but be accepted.",
+        "cv": "Kohara Konomi",
+        "info": "A mysterious young astrologer who proclaims herself to be 'Astrologist Mona Megistus,' and who possesses abilities to match the title. Erudite, but prideful. Though she is often strapped for cash and lives a life of thrift, she is resolved to never use astrology for profit... It is this very resolution that has caused her to constantly fret about money.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817270842074.png",
+        "city": "Mondstadt",
+        "link": "https://genshin.mihoyo.com/en/character/mondstadt?char=13",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "rating": 5,
+        "id": "749031417895452754"
+    },
+
+    "xiao": {
+        "name": "Xiao",
+        "sp": "I'm willing to protect you. But don't think about getting close, and stay out of my way, or all that awaits you is regret.",
+        "cv": "Matsuoka Yoshitsugu",
+        "info": "One of the 'Mighty and Illuminated Adepti' guarding Liyue, also heralded as the 'Guardian yaksha.' Despite his appearance as a young man, occasional legends about him have been documented in ancient books for thousands of years. He is especially fond of Wangshu Inn's Almond Tofu. The reason is that the dish tastes just like the 'dreams' he used to devour.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200220/2020022013243158838.png",
+        "city": "Liyue",
+        "link": "https://genshin.mihoyo.com/en/character/liyue?char=0",
+        "element": "Anemo",
+        "weapon": "Polearm",
+        "rating": 5,
+        "id": "749031476665778347"
+    },
+
+    "beidou": {
+        "name": "Beidou",
+        "sp": "I'm the captain, so you can be my first mate! Deal?",
+        "cv": "Koshimizu Ami",
+        "info": "Captain of the Crux, with quite the reputation in Liyue. There are those who say she can split mountains and part the sea. Others say she draws lightning through her sword. Some say that even the mightiest of sea beasts are no match for her. For those not from Liyue, it may sound like a hearty joke, but those that have sailed with her will say— 'No matter what sea beasts there may be, Beidou will be sure to split them all in two.'",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200227/2020022720085973518.png",
+        "city": "Liyue",
+        "link": "https://genshin.mihoyo.com/en/character/liyue?char=1",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "rating": 4,
+        "id": "749031334273613904"
+    },
+
+    "ningguang": {
+        "name": "Ningguang",
+        "sp": "Every Mora counts, down to the very last one.",
+        "cv": "Ohara Sayaka",
+        "info": "Owner of the Jade Chamber in the skies above Liyue, there are stories abound about Ningguang, with her elegance and mysterious smile. As the Tianquan of the Liyue Qixing, not only does she embody law and order, she also represents fortune and wit.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200305/2020030519413867244.png",
+        "city": "Liyue",
+        "link": "https://genshin.mihoyo.com/en/character/liyue?char=2",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "rating": 4,
+        "id": "749031423905759253"
+    },
+
+    "xiangling": {
+        "name": "Xiangling",
+        "sp": "Sit anywhere you like. I can make whatever you want, even if it's not on the menu!",
+        "cv": "Ozawa Ari",
+        "info": "The Head Chef at the Wanmin Restaurant and also a waitress there, Xiangling is extremely passionate about cooking and excels at her signature hot and spicy dishes. Though still young, Xiangling is a true master of the culinary arts with all the skills of a kitchen veteran. She enjoys a good reputation among the hearty eaters at Chihu Rock. There's absolutely no need to be nervous if she wants you to sample her latest creation. It will not disappoint. Promise.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031618224235129.png",
+        "city": "Liyue",
+        "link": "https://genshin.mihoyo.com/en/character/liyue?char=3",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "rating": 4,
+        "id": "749031470726905977"
+    },
+
+    "xingqiu": {
+        "name": "Xingqiu",
+        "sp": "A moment of solitude. What could be better?",
+        "cv": "Minagawa Junko",
+        "info": "Second son of the Feiyun Commerce Guild, Xingqiu has had a reputation for being studious and polite ever since he was a young child. But there is another side to the mild-mannered Xingqiu everyone knows. A daring, adventurous and much more mischievous side...",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200324/2020032418063418099.png",
+        "city": "Liyue",
+        "link": "https://genshin.mihoyo.com/en/character/liyue?char=4",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "rating": 4,
+        "id": "749031483263680563"
+    },
+
+    "chongyun": {
+        "name": "Chongyun",
+        "sp": "Once I have rid this world of all evil spirits, I... I will break with my abstinence, and go to the hot springs!",
+        "cv": "Saito Soma",
+        "info": "An exorcist who roams the land with Liyue as his base of operations, evil spirits fleeing wherever he goes. As the heir to a clan of exorcists, he has always possessed abilities superior to most. However, these abilities are not the result of training, but of an inborn trait — congenital positivity.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200602/2020060220172055224.png",
+        "city": "Liyue",
+        "link": "https://genshin.mihoyo.com/en/character/liyue?char=5",
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "rating": 4,
+        "id": "749031361934917682"
+    },
+
+    "qiqi": {
+        "name": "Qiqi",
+        "sp": "I am Qiqi. I am a zombie. And I forgot what comes next.",
+        "cv": "Tamura Yukari",
+        "info": "An apprentice and herb gatherer at Bubu Pharmacy. \"Blessed\" by the adepti with a body that cannot die, this petite zombie cannot do anything without first giving herself orders to do it. Qiqi's memory is like a sieve. Out of necessity, she always carries around a notebook in which she writes anything important that she is sure to forget later. But on her worst days, she even forgets to look at her notebook...",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817145380161.png",
+        "city": "Liyue",
+        "link": "https://genshin.mihoyo.com/en/character/liyue?char=6",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "rating": 5,
+        "id": "749031442494914661"
+    },
+
+    "keqing": {
+        "name": "Keqing",
+        "sp": "Hmph. Let's be real here, does Rex Lapis really know everything?",
+        "cv": "Saito Soma",
+        "info": "The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis' unilateral approach to policymaking in Liyue ⁠— but in truth, gods admire skeptics such as her quite a lot. She firmly believes that humanity's future should be determined by humans themselves, and that they can even do better than the archons and adepti have done for them. In order to prove this, she works harder than anyone else.",
+        "url": "https://uploadstatic-sea.mihoyo.com/contentweb/20200828/2020082817192486254.png",
+        "city": "Liyue",
+        "link": "https://genshin.mihoyo.com/en/character/liyue?char=7",
+        "element": "Electro",
+        "weapon": "Sword",
+        "rating": 5,
+        "id": "749031397896749127"
+    }
+}

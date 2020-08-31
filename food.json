@@ -1,0 +1,320 @@
+{
+    "list1": [
+        "Adeptus' Temptation",
+        "Apple",
+        "Barbatos Ratatouille",
+        "Black-Back Perch Stew",
+        "Calla Lily Seafood Soup",
+        "Chicken-Mushroom Skewer",
+        "Chicken Stir-Fry",
+        "Cold Cut Platter",
+        "Come and Get It",
+        "Cream Stew",
+        "Crystal Shrimp",
+        "Fisherman's Toast",
+        "Flaming Red Bolognese",
+        "Fried Radish Balls",
+        "Golden Shrimp Balls",
+        "Grilled Tiger Fish",
+        "Jade Parcel",
+        "Jewelry Soup",
+        "Jueyun Chili Chicken",
+        "Lotus Seed and Bird Egg Soup",
+        "Matsutake Meat Roll",
+        "Mondstadt Grilled Fish",
+        "Mondstadt Hash Brown",
+        "Mora Meat",
+        "Mushroom Pizza",
+        "Northern Smoked Chicken",
+        "Pile 'Em Up",
+        "Qingce Stir Fry",
+        "Radish Veggie Soup",
+        "Satisfying Salad",
+        "Sauteed Matsutake",
+        "Squirrel Fish",
+        "Steak",
+        "Sticky Honey Roast",
+        "Sunsettia",
+        "Sweet Madame",
+        "Tea Break Pancake",
+        "Teyvat Fried Egg",
+        "Zhongyuan Chop Suey"
+    ],
+
+    "list2": [
+        "adeptustemptation",
+        "apple",
+        "barbatosratatouille",
+        "blackbackperchstew",
+        "callalilyseafoodsoup",
+        "chickenmushroomskewer",
+        "chickenstirfry",
+        "coldcutülatter",
+        "comeandgetit",
+        "creamstew",
+        "crystalshrimp",
+        "fishermanstoast",
+        "flamingredbolognese",
+        "friedradishballs",
+        "goldenshrimpballs",
+        "grilledtigerfish",
+        "jadeparcel",
+        "jewelrysoup",
+        "jueyunchilichicken",
+        "lotusseedandbirdeggsoup",
+        "matsutakemeatroll",
+        "mondstadtgrilledfish",
+        "mondstadthashbrown",
+        "morameat",
+        "mushroompizza",
+        "northernsmokedchicken",
+        "pileemup",
+        "qingcestirfry",
+        "radishveggiesoup",
+        "satisfyingsalad",
+        "sauteedmatsutake",
+        "squirrelfish",
+        "steak",
+        "stickyhoneyroast",
+        "sunsettia",
+        "sweetmadame",
+        "teabreakpancake",
+        "teyvatfriedegg",
+        "zhongyuanchopsuey"
+    ],
+
+    "adeptustemptation": {
+        "name": "Adeptus' Temptation",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/5/5e/Item_Adeptus%27_Temptation.png/revision/latest/scale-to-width-down/45?cb=20200718235522",
+        "rating": 5,
+        "effect": "Increases all party member's ATK by 260~371 and CRIT Rate by 8~12% for 300s."
+    },
+    "apple": {
+        "name": "Apple",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/8/8a/Item_Apple.png/revision/latest/scale-to-width-down/45?cb=20200622120319",
+        "rating": 1,
+        "effect": "Restores 300 HP"
+    },
+    "barbatosratatouille": {
+        "name": "Barbatos Ratatouille",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/a/a3/Item_Barbatos_Ratatouille.png/revision/latest/scale-to-width-down/45?cb=20200706024103",
+        "rating": 3,
+        "effect": "Decreases Stamina depleted by sprinting and gliding for all party members by 20-35% for 900s."
+    },
+    "blackbackperchstew": {
+        "name": "Black-Back Perch Stew",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/3/31/Item_Black-Back_Perch_Stew.png/revision/latest/scale-to-width-down/45?cb=20200623104234",
+        "rating": 3,
+        "effect": "Restores 7.5% HP of all party members. Regenerates 350-580 HP every 5s for 30s."
+    },
+    "callalilyseafoodsoup": {
+        "name": "Calla Lily Seafood Soup",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/4/4e/Item_Calla_Lily_Seafood_Soup.png/revision/latest/scale-to-width-down/45?cb=20200623105809",
+        "rating": 3,
+        "effect": "Increases all party members' DEF by 108-154 for 300s."
+    },
+    "chickenmushroomskewer": {
+        "name": "Chicken-Mushroom Skewer",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/f/fd/Item_Chicken-Mushroom_Skewer.png/revision/latest/scale-to-width-down/45?cb=20200623110035",
+        "rating": 1,
+        "effect": "Restores 8%-10% of Max HP and an additional 750~1,100 HP."
+    },
+    "chickenstirfry": {
+        "name": "Chicken Stir-Fry",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/a/a4/Item_Chicken_Stir-Fry.png/revision/latest/scale-to-width-down/45?cb=20200623105915",
+        "rating": 1,
+        "effect": "Revives the selected character. Restores 50~150 HP."
+    },
+    "coldcutplatter": {
+        "name": "Cold Cut Platter",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/1/16/Item_Cold_Cut_Platter.png/revision/latest/scale-to-width-down/45?cb=20200623110142",
+        "rating": 3,
+        "effect": "Increases all party members' Physical DMG by for 20%-40% for 300s."
+    },
+    "comeandgetit": {
+        "name": "Come and Get It",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Come_and_Get_It.png/revision/latest/scale-to-width-down/45?cb=20200715154356",
+        "rating": 3,
+        "effect": "Increases all party member's CRIT Rate by 10~20% for 300s."
+    },
+    "creamstew": {
+        "name": "Cream Stew",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Cream_Stew.png/revision/latest/scale-to-width-down/45?cb=20200623110252",
+        "rating": 2,
+        "effect": "Decreases Stamina depleted by sprinting for all party members by 20~35% for 900s."
+    },
+    "crystalshrimp": {
+        "name": "Crystal Shrimp",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/4/4a/Item_Crystal_Shrimp.png/revision/latest/scale-to-width-down/45?cb=20200715151656",
+        "rating": 2,
+        "effect": "Restores 18~22% of Max HP to the selected character. Regenerates 320~490 HP ever 5s for the next 30s."
+    },
+    "fishermanstoast": {
+        "name": "Fisherman's Toast",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/4/4c/Item_Fisherman%27s_Toast.png/revision/latest/scale-to-width-down/45?cb=20200623110402",
+        "rating": 2,
+        "effect": "Increases all party members' DEF by 82~117 for 300s."
+    },
+    "flamingredbolognese": {
+        "name": "Flaming Red Bolognese",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/7/73/Item_Flaming_Red_Bolognese.png/revision/latest/scale-to-width-down/45?cb=20200623111245",
+        "rating": 2,
+        "effect": "Restores 18~22% of Max HP to the selected character. Regenerates 320~490 HP every 5s for the next 30s."
+    },
+    "friedradishballs": {
+        "name": "Fried Radish Balls",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/f/f6/Item_Fried_Radish_Balls.png/revision/latest/scale-to-width-down/45?cb=20200623111624",
+        "rating": 2,
+        "effect": "Increases all party members' ATK by 65~92 for 300s."
+    },
+    "goldenshrimpballs": {
+        "name": "Golden Shrimp Balls",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/d/dc/Item_Golden_Shrimp_Balls.png/revision/latest/scale-to-width-down/45?cb=20200715152619",
+        "rating": 2,
+        "effect": "Revives the selected character. Restores 250~550 HP."
+    },
+    "grilledtigerfish": {
+        "name": "Grilled Tiger Fish",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/d/d4/Item_Grilled_Tiger_Fish.png/revision/latest/scale-to-width-down/45?cb=20200715135404",
+        "rating": 1,
+        "effect": "Restores 8~10% of Max HP and an additional 750~1,100 HP to the selected character."
+    },
+    "jadeparcel": {
+        "name": "Jade Parcel",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/0/08/Item_Jade_Parcel.png/revision/latest/scale-to-width-down/45?cb=20200623111800",
+        "rating": 4,
+        "effect": "Increases all party members' ATK by 65-95 for 300s."
+    },
+    "jewelrysoup": {
+        "name": "Jewelry Soup",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/5/5b/Item_Jewelry_Soup.png/revision/latest/scale-to-width-down/45?cb=20200623112032",
+        "rating": 2,
+        "effect": "Increases all party members' DEF by 62-88 for 300s."
+    },
+    "jueyunchilichicken": {
+        "name": "Jueyun Chili Chicken",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/7/72/Item_Jueyun_Chili_Chicken.png/revision/latest/scale-to-width-down/45?cb=20200623115718",
+        "rating": 2,
+        "effect": "Increases all party members' CRIT Rate by 6~12% for 300s."
+    },
+    "lotusseedandbirdeggsoup": {
+        "name": "Lotus Seed and Bird Egg Soup",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/5/53/Item_Lotus_Seed_and_Bird_Egg_Soup.png/revision/latest/scale-to-width-down/45?cb=20200715152242",
+        "rating": 2,
+        "effect": "Decreases Stamina depleted by sprinting for all party members by 20~35% for 900s."
+    },
+    "matsutakemeatroll": {
+        "name": "Matsutake Meat Roll",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/9/9f/Item_Matsutake_Meat_Roll.png/revision/latest/scale-to-width-down/45?cb=20200623112613",
+        "rating": 2,
+        "effect": "Restores 20%-24% of Max HP and an additional 900~1,60 HP to the selected character."
+    },
+    "mondstadtgrilledfish": {
+        "name": "Mondstadt Grilled Fish",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/c/c9/Item_Mondstadt_Grilled_Fish.png/revision/latest/scale-to-width-down/45?cb=20200623112703",
+        "rating": 1,
+        "effect": "Revives the selected character. Restores 50~150 HP."
+    },
+    "mondstadthashbrown": {
+        "name": "Mondstadt Hash Brown",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/e/e8/Item_Mondstadt_Hash_Brown.png/revision/latest/scale-to-width-down/45?cb=20200623112457",
+        "rating": 3,
+        "effect": "Restores 30~34% of Max HP and an additional 850~2,700 HP to the selected character."
+    },
+    "morameat": {
+        "name": "Mora Meat",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/8/8f/Item_Mora_Meat.png/revision/latest/scale-to-width-down/45?cb=20200715131711",
+        "rating": 1,
+        "effect": "Revives the selected character. Restores 50~150 HP."
+    },
+    "mushroompizza": {
+        "name": "Mushroom Pizza",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Mushroom_Pizza.png/revision/latest/scale-to-width-down/45?cb=20200623112849",
+        "rating": 3,
+        "effect": "Restores 26~30% Max HP to the selected character. Regenerates 650~1,120 HP every 5s for the next 30s."
+    },
+    "nothernsmokedchicken": {
+        "name": "Northern Smoked Chicken",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/0/03/Item_Northern_Smoked_Chicken.png/revision/latest/scale-to-width-down/45?cb=20200623112951",
+        "rating": 2,
+        "effect": "Restores 40~70 stamina."
+    },
+    "pileemup": {
+        "name": "Pile 'Em Up",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/6/62/Item_Pile_%27Em_Up.png/revision/latest/scale-to-width-down/45?cb=20200706023746",
+        "rating": 3,
+        "effect": "Increases all party members' CRIT Rate by 10-20% for 300s."
+    },
+    "quingcestirfry": {
+        "name": "Qingce Stir Fry",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/7/71/Item_Qingce_Stir_Fry.png/revision/latest/scale-to-width-down/45?cb=20200715134011",
+        "rating": 3,
+        "effect": "Increases all party members' ATK by 211~301 for 300s."
+    },
+    "radishveggiesoup": {
+        "name": "Radish Veggie Soup",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Radish_Veggie_Soup.png/revision/latest/scale-to-width-down/45?cb=20200623113030",
+        "rating": 1,
+        "effect": "Restores 8~10% of Max HP to the selected character. Regenerates 190~270 HP every 5s for the next 30s."
+    },
+    "satisfyingsalad": {
+        "name": "Satisfying Salad",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/8/8f/Item_Satisfying_Salad.png/revision/latest/scale-to-width-down/45?cb=20200622123732",
+        "rating": 2,
+        "effect": "Increases all party members' CRIT Rate by 6~12% for 300s."
+    },
+    "sauteedmatsutake": {
+        "name": "Sauteed Matsutake",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/7/70/Item_Sauteed_Matsutake.png/revision/latest/scale-to-width-down/45?cb=20200706023446",
+        "rating": 3,
+        "effect": "Increases all party members' ATK by 211-301 for 300s."
+    },
+    "squirrelfish": {
+        "name": "Squirrel Fish",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/c/ce/Item_Squirrel_Fish.png/revision/latest/scale-to-width-down/45?cb=20200715153844",
+        "rating": 3,
+        "effect": "Restores 30~34% of Max HP and an additional 850~2,700 HP to the selected character."
+    },
+    "steak": {
+        "name": "Steak",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/a/a0/Item_Steak.png/revision/latest/scale-to-width-down/45?cb=20200623113209",
+        "rating": 1,
+        "effect": "Revives the selected character. Restores 50~150 HP."
+    },
+    "stickyhoneyroast": {
+        "name": "Sticky Honey Roast",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/8/85/Item_Sticky_Honey_Roast.png/revision/latest/scale-to-width-down/45?cb=20200623113403",
+        "rating": 3,
+        "effect": "Decreases Stamina depleted by sprinting and climbing for all party members by 20~35% for 900s."
+    },
+    "sunsettia": {
+        "name": "Sunsettia",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/4/45/Item_Sunsettia.png/revision/latest/scale-to-width-down/41?cb=20200623112230",
+        "rating": 1,
+        "effect": "Restores 300 HP"
+    },
+    "sweetmadame": {
+        "name": "Sweet Madame",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/1/12/Item_Sweet_Madame.png/revision/latest/scale-to-width-down/45?cb=20200623113500",
+        "rating": 2,
+        "effect": "Restores 20~24% of Max HP and an additional 900-1,600 HP."
+    },
+    "teabreakpancake": {
+        "name": "Tea Break Pancake",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/2/25/Item_Tea_Break_Pancake.png/revision/latest/scale-to-width-down/45?cb=20200623113618",
+        "rating": 2,
+        "effect": "Revives the selected character. Restores 250~550 HP."
+    },
+    "teyvatfriedegg": {
+        "name": "Teyvat Fried Egg",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/2/20/Item_Teyvat_Fried_Egg.png/revision/latest/scale-to-width-down/45?cb=20200623113704",
+        "rating": 1,
+        "effect": "Revives the selected character. Restores 50-150 HP."
+    },
+    "zhongyuanchopsuey": {
+        "name": "Zhongyuan Chop Suey",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/8/8c/Item_Zhongyuan_Chop_Suey.png/revision/latest/scale-to-width-down/45?cb=20200623113757",
+        "rating": 3,
+        "effect": "Decreases Stamina depleted by sprinting and climbing for all party members by 20~35% for 900s."
+    }
+}

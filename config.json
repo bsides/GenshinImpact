@@ -1,0 +1,3 @@
+{
+    "COMMANDS": ["help", "map", "chars", "char", "weapons", "weapon", "foods", "food", "potions", "potion", "link", "unlink", "stats", "prefix", "premium", "bp", "mp", "pg", "elements", "element", "countdown", "song", "stop"]
+}

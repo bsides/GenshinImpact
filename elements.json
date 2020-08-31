@@ -1,0 +1,64 @@
+{
+    "list1": [
+        "pyro",
+        "hydro",
+        "electro",
+        "anemo",
+        "cryo",
+        "dendro",
+        "geo"
+    ],
+
+    "list2": [
+        "Pyro",
+        "Hydro",
+        "Electro",
+        "Anemo",
+        "Cryo",
+        "Dendro",
+        "Geo"
+    ],
+
+    "pyro": {
+        "name": "Pyro",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/e/e8/Element_Pyro.png/revision/latest?cb=20200614215121",
+        "city": "Unknown",
+        "rl": "Unknown"
+    },
+    "hydro": {
+        "name": "Hydro",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/3/35/Element_Hydro.png/revision/latest?cb=20200614215203",
+        "city": "Fontaine",
+        "rl": "France"
+    },
+    "electro": {
+        "name": "Electro",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/7/73/Element_Electro.png/revision/latest?cb=20200614215217",
+        "city": "Inazuma",
+        "rl": "Japan"
+    },
+    "anemo": {
+        "name": "Anemo",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/a/a4/Element_Anemo.png/revision/latest?cb=20200614215230",
+        "city": "Mondstadt",
+        "rl": "Germany"
+    },
+    "cryo": {
+        "name": "Cryo",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/8/88/Element_Cryo.png/revision/latest?cb=20200614215245",
+        "city": "Snezhnaya",
+        "rl": "Russia"
+    },
+    "dendro": {
+        "name": "Dendro",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/f/f4/Element_Dendro.png/revision/latest?cb=20200614215254",
+        "city": "Unknown",
+        "rl": "Unknown"
+    },
+    "geo": {
+        "name": "Geo",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/4/4a/Element_Geo.png/revision/latest?cb=20200614215305",
+        "city": "Liyue",
+        "rl": "China"
+    }
+}

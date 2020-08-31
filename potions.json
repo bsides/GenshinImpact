@@ -1,0 +1,104 @@
+{
+    "list1": [
+        "desiccantpotion",
+        "dustproofpotion",
+        "flamingessentialoil",
+        "frostingessentialoil",
+        "frostshieldpotion",
+        "gushingessentialoil",
+        "heatshieldpotion",
+        "insulationpotion",
+        "shockingessentialoil",
+        "streamingessentialoil",
+        "unmovingessentialoil",
+        "windbarrierpotion"
+    ],
+
+    "list2": [
+        "Desiccant Potion",
+        "Dustproof Potion",
+        "Flaming Essential Oil",
+        "Frosting Essential Oil",
+        "Frostshield Potion",
+        "Gushing Essential Oil",
+        "Heatshield Potion",
+        "Insulation Potion",
+        "Shocking Essential Oil",
+        "Streaming Essential Oil",
+        "Unmoving Essential Oil",
+        "Windbarrier Potion"
+    ],
+
+    "desiccantpotion": {
+        "name": "Desiccant Potion",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/8/85/Item_Desiccant_Potion.png/revision/latest/scale-to-width-down/35?cb=20200626032919",
+        "rating": 3,
+        "effect": "Increases all party members' Hydro RES by 35% for 300s."
+    },
+    "dustproofpotion": {
+        "name": "Dustproof Potion",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/b/bd/Item_Dustproof_Potion.png/revision/latest/scale-to-width-down/35?cb=20200626032756",
+        "rating": 3,
+        "effect": "Increases all party members' Geo RES by 35% for 300s."
+    },
+    "flamingessentialoil": {
+        "name": "Flaming Essential Oil",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/b/b9/Item_Flaming_Essential_Oil.png/revision/latest/scale-to-width-down/30?cb=20200626033540",
+        "rating": 3,
+        "effect": "Increases all party members' Pyro DMG by 35% for 300s."
+    },
+    "frostingessentialoil": {
+        "name": "Frosting Essential Oil",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/4/46/Item_Frosting_Essential_Oil.png/revision/latest/scale-to-width-down/31?cb=20200626033541",
+        "rating": 3,
+        "effect": "Increases all party members' Cryo DMG by 35% for 300s."
+    },
+    "frostshieldpotion": {
+        "name": "Frostshield Potion",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/c/cf/Item_Frostshield_Potion.png/revision/latest/scale-to-width-down/35?cb=20200626033040",
+        "rating": 3,
+        "effect": "Increases all party members' Cryo RES by 35% for 300s."
+    },
+    "gushingessentialoil": {
+        "name": "Gushing Essential Oil",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/d/d9/Item_Gushing_Essential_Oil.png/revision/latest/scale-to-width-down/31?cb=20200626033541",
+        "rating": 3,
+        "effect": "Increases all party members' Anemo DMG by 35% for 300s."
+    },
+    "heatshieldpotion": {
+        "name": "Heatshield Potion",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/4/4f/Item_Heatshield_Potion.png/revision/latest/scale-to-width-down/34?cb=20200626032702",
+        "rating": 3,
+        "effect": "Increases all party members' Pyro RES by 35% for 300s."
+    },
+    "insulationpotion": {
+        "name": "Insulation Potion",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/b/ba/Item_Insulation_Potion.png/revision/latest/scale-to-width-down/36?cb=20200626032849",
+        "rating": 3,
+        "effect": "Increases all party members' Electro RES by 35% for 300s."
+    },
+    "shockingessentialoil": {
+        "name": "Shocking Essential Oil",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/0/00/Item_Shocking_Essential_Oil.png/revision/latest/scale-to-width-down/30?cb=20200626033541",
+        "rating": 3,
+        "effect": "Increases all party members' Electro DMG by 35% for 300s."
+    },
+    "streamingessentialoil": {
+        "name": "Streaming Essential Oil",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/0/00/Item_Shocking_Essential_Oil.png/revision/latest/scale-to-width-down/30?cb=20200626033541",
+        "rating": 3,
+        "effect": "Increases all party members' Hydro DMG by 35% for 300s."
+    },
+    "unmovingessentialoil": {
+        "name": "Unmoving Essential Oil",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/3/36/Item_Unmoving_Essential_Oil.png/revision/latest/scale-to-width-down/31?cb=20200626033542",
+        "rating": 3,
+        "effect": "Increases all party members' Geo DMG by 35% for 300s."
+    },
+    "windbarrierpotion": {
+        "name": "Windbarrier Potion",
+        "url": "https://vignette.wikia.nocookie.net/gensin-impact/images/8/84/Item_Windbarrier_Potion.png/revision/latest/scale-to-width-down/35?cb=20200626032517",
+        "rating": 3,
+        "effect": "Increases all party members' Anemo RES by 35% for 300s."
+    }
+}
